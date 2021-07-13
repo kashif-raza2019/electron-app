@@ -1,0 +1,65 @@
+ body{
+  background-color: rgba(50, 155, 204, 0.582);
+  color: coral;
+  font-size: large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+div{
+    background-color: cornsilk;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 80px;
+    border-radius: 20px;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+
+}
+
+button{
+    background-color: rosybrown;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    height: 50px;
+    padding: 4px;
+    font-size: 26px;
+    width: 180px;
+    border-radius: 10px;
+    border: none;
+}
+button:hover{
+  background-color: sandybrown;
+}
+
+footer{
+    color:rgba(237, 242, 245, 0.801);
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+}
+
+input[type='text']{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color:rgba(13, 22, 143, 0.945);
+}
+input[type="text"]:hover{
+    background-color: seashell;
+}
+input[type="text"]:focus{
+    border: none;
+}
+img{
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+}
