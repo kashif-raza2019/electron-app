@@ -27,7 +27,7 @@ npm node
 npm electron -v
 ```
 #### For any further confusion head to <a href='https://www.electronjs.org/docs/tutorial/quick-start'>Electron Quick Start Guide</a>
-Now you are reeady to go 🤩🤩
+Now you are ready to go 🤩🤩
 Start the Application by using
 ```console
   npm start
