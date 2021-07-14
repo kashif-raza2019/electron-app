@@ -13,6 +13,7 @@ Run this command
 npm node
 npm install electron --save-dev
 ```
+### I your package.json, add your main: "main.js" (Important!)
 which will install it in devdependecies!
 Check it using 
 ```console
@@ -25,6 +26,7 @@ cd Desktop
 npm node
 npm electron -v
 ```
+#### For any further confusion head to <a href='https://www.electronjs.org/docs/tutorial/quick-start'>Electron Quick Start Guide</a>
 Now you are reeady to go 🤩🤩
 Start the Application by using
 ```console
